@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|d:\\hoc\\\u0111\u1ED3 \u00E1n\\da_storebooks_win\\da_storebooks_win\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\da_storebooks_win\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC32286E-9092-441F-AC2C-BD0B399AF38A}|DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN.csproj|solutionrelative:da_storebooks_win\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSach.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmSach.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmSach.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmSach.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:15:32.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmMain.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmMain.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmMain.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:52:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmThongKe.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmThongKe.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:42:57.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\Program.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\Program.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\Program.cs",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:43:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmHoaDon.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmHoaDon.cs",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmHoaDon.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:40:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmKhachHang.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:50:41.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmKhachHang.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmKhachHang.cs",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmKhachHang.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwDEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:56:52.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmHoaDon.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:51:59.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmDangNhap.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:38:21.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmPhieuNhap.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmPhieuNhap.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmPhieuNhap.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:50:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmSach.cs",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmSach.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmSach.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmSach.cs",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmSach.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:16:21.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmNhanVien.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:13:19.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "DA_STOREBOOKS_WIN\\frmDangNhap.cs",
+              "ToolTip": "D:\\Hoc\\\u0110\u1ED3 \u00E1n\\DA_STOREBOOKS_WIN\\DA_STOREBOOKS_WIN\\frmDangNhap.cs",
+              "RelativeToolTip": "DA_STOREBOOKS_WIN\\frmDangNhap.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:59:29.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

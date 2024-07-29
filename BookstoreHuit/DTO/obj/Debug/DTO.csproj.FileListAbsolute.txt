@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DTO\obj\Debug\DTO.pdb
+D:\BookStore\BookstoreHuit\DTO\bin\Debug\DTO.dll
+D:\BookStore\BookstoreHuit\DTO\bin\Debug\DTO.pdb
+D:\BookStore\BookstoreHuit\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\BookStore\BookstoreHuit\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BookStore\BookstoreHuit\DTO\obj\Debug\DTO.dll
+D:\BookStore\BookstoreHuit\DTO\obj\Debug\DTO.pdb

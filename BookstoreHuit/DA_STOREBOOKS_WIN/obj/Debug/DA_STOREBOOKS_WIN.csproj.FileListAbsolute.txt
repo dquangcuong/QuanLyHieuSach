@@ -1,0 +1,242 @@
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe.config
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.pdb
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.AssemblyReference.cache
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmDangNhap.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmHoaDon.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmPhieuNhap.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmKhachHang.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmMain.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmNhanVien.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmSach.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmThongKe.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.Properties.Resources.resources
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.GenerateResource.cache
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.CoreCompileInputs.cache
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.exe
+D:\Hoc\Đồ án\DA_STOREBOOKS_WIN\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe.config
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmDangNhap.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmHoaDon.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmPhieuNhap.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmKhachHang.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmMain.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmNhanVien.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmSach.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmThongKe.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.Properties.Resources.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.GenerateResource.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.exe
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1)\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe.config
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\BLL.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\DTO.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\DAL.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\BLL.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\DTO.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\DAL.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmHoaDon.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmPhieuNhap.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmKhachHang.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmMain.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmNhanVien.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmSach.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmThongKe.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.Properties.Resources.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.GenerateResource.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.CopyComplete
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.exe
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Buffers.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Memory.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.xml
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Buffers.xml
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Memory.xml
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\RdlCompile.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\EnvDTE.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\stdole.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmReportPN.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmReportHD.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmLogin.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmMainThuNgan.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmTNhoadon.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmTNkhachhang.resources
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmTNtracuu.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe.config
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.exe
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\DA_STOREBOOKS_WIN.pdb
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\BLL.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\DTO.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.Interfaces.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.System.Drawing.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Buffers.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Memory.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Numerics.Vectors.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\DAL.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\EnvDTE.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\stdole.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.MSXML.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\BLL.pdb
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\DTO.pdb
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\EPPlus.xml
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Buffers.xml
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Memory.xml
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Numerics.Vectors.xml
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\DAL.pdb
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.AssemblyReference.cache
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmHoaDon.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmLogin.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmPhieuNhap.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmKhachHang.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmMain.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmNhanVien.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmReportHD.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmReportPN.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmSach.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.frmThongKe.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.Properties.Resources.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmMainThuNgan.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmTNhoadon.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmTNkhachhang.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.ThuNgan.frmTNtracuu.resources
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.GenerateResource.cache
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.CoreCompileInputs.cache
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.csproj.CopyComplete
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.exe
+D:\BookStore\BookstoreHuit\DA_STOREBOOKS_WIN\obj\Debug\DA_STOREBOOKS_WIN.pdb

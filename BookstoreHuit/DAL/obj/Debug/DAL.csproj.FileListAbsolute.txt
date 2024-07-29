@@ -1,0 +1,18 @@
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\bin\Debug\DTO.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\bin\Debug\DTO.pdb
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Documents\S_HK4\WinForm\DA_STOREBOOKS_WIN (1) - Copy\DAL\obj\Debug\DAL.pdb
+D:\BookStore\BookstoreHuit\DAL\bin\Debug\DAL.dll
+D:\BookStore\BookstoreHuit\DAL\bin\Debug\DAL.pdb
+D:\BookStore\BookstoreHuit\DAL\bin\Debug\DTO.dll
+D:\BookStore\BookstoreHuit\DAL\bin\Debug\DTO.pdb
+D:\BookStore\BookstoreHuit\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BookStore\BookstoreHuit\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BookStore\BookstoreHuit\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\BookStore\BookstoreHuit\DAL\obj\Debug\DAL.dll
+D:\BookStore\BookstoreHuit\DAL\obj\Debug\DAL.pdb
